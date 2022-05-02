@@ -1,5 +1,9 @@
 # Backend-Java
 
+
+
+Estas son las prácticas de la semana 3, de programación orientada a objetos :). 
+
 ## Práctica Harry
 ### Funcionamiento
 
